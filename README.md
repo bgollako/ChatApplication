@@ -13,7 +13,7 @@ Run the server
 ```
 
 
-Start client(s) :- 
+Start chat client(s) :- 
 ```sh
 ./chatapp --mode=client
 ```
