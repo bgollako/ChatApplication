@@ -1,4 +1,4 @@
-A simple TCP based chat application that allows users to chat with each other over tcp network.
+A simple TCP based broadcasting chat application that allows users to chat with each other.
 
 Compile the binary with the following command
 go build .
