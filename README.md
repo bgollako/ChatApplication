@@ -7,7 +7,7 @@ Compile the binary
 go build .
 ```
 
-Run the server
+Start the chat server
 ```sh
 ./chatapp --mode=server
 ```
